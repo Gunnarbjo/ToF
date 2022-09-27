@@ -1,0 +1,25 @@
+I hrynur í 6 án breytinga
+a)
+I fer upp í 5 og hrynur í 6
+b)
+I fer upp í 7 og hrynur í 8
+c)
+I fer upp í 11 og hrynur í 12
+
+Gildið á I breytist þar sem við erum að bæta við auka bitum sem forritið 
+getur owerflowað yfir í til þess að ná utan um tölurnar.
+
+3 
+a)
+lokagildið á i verðu 5 og p bendir á i 
+
+b) 
+í fyrri er bent á q og þá þarf q að vera pointer og í
+seinni þá er verið að breyta gildi þar sem p bendir á í q og q
+þarf að vera int tala.
+
+c)
+
+Það er ekki hægt að vista töluna þar sem p bendir ekki á neina 
+ákveðna adressu. Það þarf first að benda á adressu áður en hægt er að
+vista tölurnar þar.
